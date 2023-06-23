@@ -5,7 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
-		"build": "vite build --base=/Project-SimplyChoco/",
+		"build": "vite build --base=/html-css_88_-Maksym-Shcherbak/",
 		"preview": "vite preview"
 	},
 	"devDependencies": {
